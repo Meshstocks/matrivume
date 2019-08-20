@@ -10,11 +10,13 @@ Project Url : https://matrivume-web-app.herokuapp.com/
 This piece of software will help people to reduce domestic violence in there community. They will know each other very well they can preserve their culture and they will organize them self for protection.
  
 ##It's built with
+
 (What languages, APIs, hardware, hosts, libraries, UI Kits or frameworks are you using?)
  
 Python, Java, Django, SQl,AndroidStudio
  
-###Here's the whole story
+##Here's the whole story
+
 (Be sure to write what inspired you, what you learned, how you built, and challenges you faced.)
 
 
