@@ -12,9 +12,9 @@ This piece of software will help people to reduce domestic violence in there com
 ##It's built with
 (What languages, APIs, hardware, hosts, libraries, UI Kits or frameworks are you using?)
  
-#Python, Java, Django, SQl,AndroidStudio
+Python, Java, Django, SQl,AndroidStudio
  
-* Here's the whole story
+###Here's the whole story
 (Be sure to write what inspired you, what you learned, how you built, and challenges you faced.)
 
 
