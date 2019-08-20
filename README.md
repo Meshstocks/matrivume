@@ -2,14 +2,14 @@
 Project Url : https://matrivume-web-app.herokuapp.com/
 
 # What's your project called?
-# Martivume
+##Martivume
 
 # Here's the elevator pitch?
 (What's your idea? This will be a short tagline for the project.)
  
-#This piece of software will help people to reduce domestic violence in there community. They will know each other very well they can preserve their culture and they will organize them self for protection.
+This piece of software will help people to reduce domestic violence in there community. They will know each other very well they can preserve their culture and they will organize them self for protection.
  
-#It's built with
+##It's built with
 (What languages, APIs, hardware, hosts, libraries, UI Kits or frameworks are you using?)
  
 #Python, Java, Django, SQl,AndroidStudio
